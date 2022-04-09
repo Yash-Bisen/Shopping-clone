@@ -1,0 +1,12 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    border-radius: 7px;
+    padding: 4px 6px;
+    font-size: 12px;
+    cursor: pointer;
+    border: 2px solid black;
+}
